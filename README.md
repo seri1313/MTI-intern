@@ -10,3 +10,6 @@
 チーム：5名
 
 使用技術：Vue.js、AWS、Git
+
+インターン期間終了後のため、動作の様子は動画でご確認ください。
+https://youtu.be/SU8Xs8vy0EU
